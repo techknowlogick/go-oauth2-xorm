@@ -4,7 +4,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/techknowlogick/go-oauth2-xorm
+  path: src/src.techknowlogick.com/oauth2-xorm
 
 platform:
   os: linux
